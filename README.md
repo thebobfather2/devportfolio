@@ -8,6 +8,7 @@ Click on the items in the navigation bar at the top of the page to view each sec
   <li>Click the images in the portfolio section to view each project's deployment</li>
   <li>View contact information in the Contact section</li>
 </ul>
+
 ## Installation
 <ul>
   <li> Step 1: git clone git@github.com:thebobfather2/devportfolio.git </li>
