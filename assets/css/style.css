@@ -169,7 +169,17 @@ text-shadow: 4px 4px #00000062;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
+    justify-content: center;
 }
+
+.contact h2 {
+    font-family: 'VTCBadDrip', sans-serif;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 6vw;
+    text-shadow: 4px 4px #00000062;
+    }
 
 .footer {
     color: #ffffff;
