@@ -148,6 +148,13 @@ text-shadow: 4px 4px #00000062;
     margin-left: 25px;
 }
 
+.portfolio-float-right-primary {
+    width: 50vw;
+    border-radius: 10px;
+    float: right;
+    margin-left: 25px;
+}
+
 .portfolio-float-left {
     width: 30vw;
     border-radius: 10px;
