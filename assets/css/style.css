@@ -80,7 +80,6 @@ p {
 
 .about h2 {
     font-size: 3vw;
-    justify-content: center;
     text-align: center;
 }
 
@@ -89,6 +88,7 @@ p {
     margin-top: 15px;
     font-size: 1.4vw;
     text-shadow: 1px 1px #585858;
+    text-align: center;
 }
 
 .float-left {
