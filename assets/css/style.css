@@ -183,7 +183,8 @@ text-shadow: 4px 4px #00000062;
 
 .footer {
     color: #ffffff;
-    padding: 30px;
+    padding: 10px;
+    padding-bottom: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
