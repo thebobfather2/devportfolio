@@ -15,3 +15,5 @@ Click on the items in the navigation bar at the top of the page to view each sec
   <li> Step 2: cd devportfolio </li>
   <li> Step 3: yarn install </li>
 </ul>
+
+<img width="1427" alt="Screen Shot 2022-11-03 at 8 43 20 PM" src="https://user-images.githubusercontent.com/107475188/199861176-8f98dbfa-cdb6-432e-89c9-e9d8fc482af3.png">
