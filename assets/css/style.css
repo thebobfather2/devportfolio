@@ -153,9 +153,11 @@ text-shadow: 4px 4px #00000062;
     border-radius: 10px;
     float: right;
     margin-left: 25px;
+    margin-bottom: 50px;
 }
 
 .portfolio-float-left {
+    margin-top: 100px;
     width: 30vw;
     border-radius: 10px;
     float: left;
@@ -192,4 +194,96 @@ text-shadow: 4px 4px #00000062;
 
 .footer h2 {
     font-size: 20px;
+}
+
+@media screen and (max-width: 1550px)  {
+    
+    .pfp {
+        margin: 40px;
+    }
+
+    .about {
+        margin: 40px;
+    }
+
+    .about p {
+        font-size: 1.4vw;
+    }
+
+    .banner {
+        height: 600px;
+    }
+    
+    .portfolio {
+        height: 1100px;
+    } 
+
+}
+
+@media screen and (max-width: 1300px)  {
+
+    .pfp {
+        margin: 40px;
+    }
+
+    .about {
+        margin: 40px;
+    }
+
+    .about p {
+        font-size: 1.3vw;
+    }
+
+    .banner {
+        height: 500px;
+    }
+
+    .portfolio {
+        height: 800px;
+    } 
+}
+
+@media screen and (max-width: 1000px)  {
+
+    .pfp {
+        margin: 30px;
+    }
+
+    .about {
+        margin: 30px;
+    }
+
+    .about p {
+        font-size: 1.1vw;
+    }
+
+    .banner {
+        height: 300px;
+    }
+    .portfolio {
+        height: 690px;
+    } 
+
+    .contact {
+        height: 290px;
+    }
+}
+
+@media screen and (max-width: 960px)  {
+    
+    .pfp {
+        margin: 20px;
+    }
+
+    .about {
+        margin: 20px;
+    }
+
+    .portfolio {
+        height: 650px;
+    } 
+
+    .contact {
+        height: 260px
+    }
 }
